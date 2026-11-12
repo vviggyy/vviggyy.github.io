@@ -29,9 +29,9 @@ a:hover {
   background-color: black;
   color: white;
 }
-.image-container {
-  display: flex;
-  justify-content: center;   /* horizontal */
+.name {
+  text-align: center;
+  font-weight: normal;
 }
 
 /* Icon links styles */
